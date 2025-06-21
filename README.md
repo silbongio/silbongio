@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning jsPsych and sewing
 - 💬 Ask me about my dog Flora 🐕
 - 👯 I’m looking to collaborate on Spanish phonetics and phonology. Get in touch!
-- 📫 How to reach me: <a href="mailto:sbongio@msu.edu" class="email">sbongio@msu.edu</a>
+- 📫 How to reach me: silbongio AT msu DOT com
 
